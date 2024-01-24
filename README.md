@@ -1,4 +1,4 @@
-#Revisão HTML E CSS
+<h1 align="center"> Revisão HTML & CSS </h1>
 
 ## 🚀 Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
@@ -25,7 +25,5 @@ git clone <https://github.com/Joanadayse/aula-de-revisao>
 📌 Versão:
 v18.0
 
-✒️ Autor
-Joana dayse
 
-⌨️ com ❤️ por Armstrong Lohãns 😊
+⌨️ com ❤️ por Joana Dayse 😊
