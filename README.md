@@ -4,11 +4,11 @@
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ### Clone este repositório
 ```
-git clone <https://github.com/Joanadayse/front-end-Labeddit.git>
+git clone <https://github.com/Joanadayse/aula-de-revisao>
 ```
 ### Acesse a pasta do projeto no terminal
 ```
-<cd labeddit>
+<cd aula-de-revisao>
 ```
 ### Instale as dependências
 ```
