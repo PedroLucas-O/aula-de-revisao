@@ -1,8 +1,9 @@
 
- <div style="text-align: center;">
-      <h1  >
+ <div style="text-align: center;" class= "cabecalho" >
+      <h1 style="color: #018385;" >
          {{title}}
       </h1>
+      <img class="imagem" src="https://djlbeczu5ui58.cloudfront.net/wp-content/uploads/2020/11/09133733/hacer-lista-de-la-compra1.jpg"/> 
      </div>
      <div>
        <table class="center-hor layout-table">
@@ -81,7 +82,7 @@
          <span *ngIf="validquantidadeMinima.hasError('required')">Campo obrigatório</span>
          <span *ngIf="validquantidadeMinima.hasError('minlength')">Necessário pelo menos 2 caracteres</span>
       </div>
-      <button [disabled]="!validId.valid || !validDescricao.valid || !validquantidadeEstoque.valid || !validquantidadeMinima.valid" (click)="adicionarMercadoria()">adicionar mercadoria</button> 
+      <button class="botao" [disabled]="!validId.valid || !validDescricao.valid || !validquantidadeEstoque.valid || !validquantidadeMinima.valid" (click)="adicionarMercadoria()">adicionar mercadoria</button> 
   
      
      
